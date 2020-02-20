@@ -14,3 +14,4 @@ LeetCode
 |8|[Permutations](https://leetcode.com/problems/permutations/)|[Python](./python/Permutations.py)|Medium|
 |9|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./python/SortColors.py)|Medium|
 |10|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./python/ReverseLinkedList.py)|Easy|
+|10|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./python/FindMedianDataStream.py)|Hard|
