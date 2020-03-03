@@ -15,3 +15,4 @@ LeetCode
 |9|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./python/SortColors.py)|Medium|
 |10|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./python/ReverseLinkedList.py)|Easy|
 |10|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./python/FindMedianDataStream.py)|Hard|
+|11|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal//)|[Python](./python/ConstructBinaryTreePreorderInorderTraversal.py)|Medium|
