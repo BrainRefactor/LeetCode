@@ -17,3 +17,4 @@ LeetCode
 |10|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python](./python/FindMedianDataStream.py)|Hard|
 |11|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](./python/ConstructBinaryTreePreorderInorderTraversal.py)|Medium|
 |12|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](./python/UnivaluedBinaryTree.py)|Easy|
+|12|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./python/MaximumLevelSumBinaryTree.py)|Medium|
