@@ -29,10 +29,11 @@ class Solution:
         nodes = []
         current = node
         while current or stack:
-            while current is not None:
+            if current is not None:
                 stack.append(current)
                 current = current.left
-            current = stack.pop()
-            nodes.append(current.val)
-            current = current.right
+            else:
+                current = stack.pop()
+                nodes.append(current.val)
+                current = current.right
         return nodes
