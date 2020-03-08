@@ -18,3 +18,4 @@ LeetCode
 |11|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](./python/ConstructBinaryTreePreorderInorderTraversal.py)|Medium|
 |12|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](./python/UnivaluedBinaryTree.py)|Easy|
 |13|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./python/MaximumLevelSumBinaryTree.py)|Medium|
+|14|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./python/BinaryTreeInorderTraversal.py)|Medium|
