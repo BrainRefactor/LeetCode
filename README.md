@@ -20,3 +20,4 @@ LeetCode
 |13|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|[Python](./python/MaximumLevelSumBinaryTree.py)|Medium|
 |14|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./python/BinaryTreeInorderTraversal.py)|Medium|
 |15|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./python/SameTree.py)|Easy|
+|16|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](./python/BinaryTreeLevelOrderTraversal.py)|Medium|
