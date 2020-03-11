@@ -22,3 +22,4 @@ LeetCode
 |15|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python](./python/SameTree.py)|Easy|
 |16|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](./python/BinaryTreeLevelOrderTraversal.py)|Medium|
 |17|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Python](./python/PopulatingNextRightPointersEachNode.py)|Medium|
+|18|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./python/BinaryTreePreorderTraversal.py)|Medium|
