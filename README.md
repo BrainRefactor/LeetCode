@@ -29,3 +29,4 @@ LeetCode
 |22|[Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/submissions/)|[Python](./python/MaximumProductSplittedBinaryTree.py)|Medium|
 |23|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./python/FizzBuzz.py)|Easy|
 |24|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./python/BinaryTreeLevelOrderTraversalII.py)|Easy|
+|25|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./python/RangeSumBST.py)|Easy|
