@@ -31,3 +31,4 @@ LeetCode
 |24|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Python](./python/BinaryTreeLevelOrderTraversalII.py)|Easy|
 |25|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](./python/RangeSumBST.py)|Easy|
 |26|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Python](./python/LowestCommonAncestorBinaryTree.py)|Medium|
+|27|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](./python/MergeTwoBinaryTrees.py)|Easy|
